@@ -74,3 +74,10 @@
     </UPageSection>
   </div>
 </template>
+
+<script setup lang="ts">
+definePageMeta({
+  name: 'Home',
+  layout: 'main-layout'
+})
+</script>
