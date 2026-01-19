@@ -11,7 +11,7 @@ useHead({
   }
 })
 
-const title = 'Nuxt Starter Template'
+const title = 'Pocketbase Nuxt CMS Starter Template'
 const description = 'A production-ready starter template powered by Nuxt UI. Build beautiful, accessible, and performant applications in minutes, not hours.'
 
 useSeoMeta({
@@ -27,6 +27,8 @@ useSeoMeta({
 
 <template>
   <UApp>
-    <NuxtLayout />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </UApp>
 </template>
