@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-center min-h-screen bg-muted relative">
+  <div class="flex items-center justify-center h-dvh w-full bg-muted relative">
     <RouterLink
       v-if="showGoHome"
       to="/"
