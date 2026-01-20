@@ -7,6 +7,7 @@
         "@iconify-json/lucide": "^1.2.74",
         "@iconify-json/simple-icons": "^1.2.59",
         "@nuxt/ui": "^4.2.1",
+        "complete-js-utils": "^1.1.2",
         "nuxt": "^4.2.2",
         "pocketbase": "^0.26.6",
         "zod": "^4.1.13",
@@ -781,6 +782,8 @@
     "commondir": ["commondir@1.0.1", "", {}, "sha512-W9pAhw0ja1Edb5GVdIF1mjZw/ASI0AlShXM83UUGe2DVr5TdAPEA1OA8m/g8zWp9x6On7gqufY+FatDbC3MDQg=="],
 
     "compatx": ["compatx@0.2.0", "", {}, "sha512-6gLRNt4ygsi5NyMVhceOCFv14CIdDFN7fQjX1U4+47qVE/+kjPoXMK65KWK+dWxmFzMTuKazoQ9sch6pM0p5oA=="],
+
+    "complete-js-utils": ["complete-js-utils@1.1.2", "", {}, "sha512-mKApvXH/ewY+TNrSnOfN3sKFZMtTMsqmMJLDeouUog8ZltbYZT2hNdw6NegrCBcpiARtkOiksV44AOqlXWuagQ=="],
 
     "compress-commons": ["compress-commons@6.0.2", "", { "dependencies": { "crc-32": "^1.2.0", "crc32-stream": "^6.0.0", "is-stream": "^2.0.1", "normalize-path": "^3.0.0", "readable-stream": "^4.0.0" } }, "sha512-6FqVXeETqWPoGcfzrXb37E50NP0LXT8kAMu5ooZayhWWdgEY4lBEEcbQNXtkuKQsGduxiIcI4gOTsxTmuq/bSg=="],
 
